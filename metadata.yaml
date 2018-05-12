@@ -1,0 +1,33 @@
+_repo: British-Political-Leaders_40923
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40923-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McCarthy, Justin
+    alias: M'Carthy, Justin
+    birthdate: 1830
+    deathdate: 1912
+    gutenberg_agent_id: '1783'
+    url: http://www.gutenberg.org/2009/agents/1783
+    wikipedia: http://en.wikipedia.org/wiki/Justin_McCarthy_(1830%E2%80%931912)
+description: ''
+gutenberg_issued: '2012-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Statesmen -- Great Britain -- Biography'
+- !lcsh 'Great Britain -- Politics and government -- 1837-1901'
+- !lcc 'DA'
+tableOfContents: Arthur James Balfour -- Lord Salisbury -- Lord Rosebery -- Joseph
+  Chamberlain -- Henry Labouchere -- John Morley -- Lord Aberdeen -- John Burns --
+  Sir Michael Hicks-Beach -- John E. Redmond -- Sir William Harcourt -- James Bryce
+  -- Sir Henry Campbell-Bannerman.
+title: British Political Leaders
+url: http://www.gutenberg.org/ebooks/40923
